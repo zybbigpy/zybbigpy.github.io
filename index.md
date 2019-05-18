@@ -1,4 +1,22 @@
 # Miao Wangqian @ NJU
+
+<html>
+    <table width="600" border="0"cellspacing="0" cellpadding="0">
+        <tr>
+            <td width="300"><img src="./pic/1.jpg"width=300 height=160  />
+            </td>
+            <td width="486" valign="middle">
+                <ul>
+                    <li> Nanjing University, Nanjing</li>
+                    <li> Kuang Yaming Honors School</li>
+                    <li> 163, Xianlin Road</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</html>
+
+---
 <!-- TOC -->
 
 - [Brief Bio](#brief-bio)
@@ -7,8 +25,6 @@
 - [Coding Skills](#coding-skills)
 
 <!-- /TOC -->
-
----
 
 ## Brief Bio
 
