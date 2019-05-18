@@ -1,17 +1,19 @@
 # Miao Wangqian @ NJU
 <!-- TOC -->
 
-- [Miao Wangqian @ NJU](#miao-wangqian--nju)
-  - [Brief Bio](#brief-bio)
-  - [Interesting Projects](#interesting-projects)
-  - [Industry Experience](#industry-experience)
-  - [Coding Skills](#coding-skills)
+- [Brief Bio](#brief-bio)
+- [Interesting Projects](#interesting-projects)
+- [Industry Experience](#industry-experience)
+- [Coding Skills](#coding-skills)
 
 <!-- /TOC -->
+
+---
+
 ## Brief Bio
 
 I am a student major in Physics and minor in Computer Science.
-I will graduate from Nanjing University this September. 
+I will graduate from Nanjing University this September.
 
 Then, I will pursue My Ph.D @ HKUST-PHY.
 
