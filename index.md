@@ -1,9 +1,10 @@
 # Miao Wangqian @ NJU
 
-<html>
+<!-- <html>
     <table width="600" border="0"cellspacing="0" cellpadding="0">
         <tr>
-            <td width="300"><img src="./pic/1.jpg"width=300 height=160  />
+            <td width="300">
+            <img src="./pic/1.jpg"width=300 height=160  />
             </td>
             <td width="486" valign="middle">
                 <ul>
@@ -14,7 +15,12 @@
             </td>
         </tr>
     </table>
-</html>
+</html> -->
+
+<div  align="center">
+    <img src="./pic/1.jpg"width=300 height=200  />
+</div>
+
 
 ---
 <!-- TOC -->
