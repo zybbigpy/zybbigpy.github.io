@@ -16,6 +16,9 @@ I will graduate from [Nanjing University](https://www.nju.edu.cn/) this Septembe
 
 Then, I will pursue My Ph.D @ [HKUST-PHY](http://physics.ust.hk/eng/).
 
+![mypic](pic/line-1.png)
+
+
 ## Contact Info
 
 - [Linkedin](https://www.linkedin.com/in/王乾-缪-60826b137/)
