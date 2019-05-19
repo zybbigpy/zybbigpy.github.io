@@ -1,4 +1,4 @@
-## Miao Wangqian @ NJU
+# Miao Wangqian
 
 <!-- TOC -->
 
@@ -12,21 +12,28 @@
 ## Brief Bio
 
 I am a student major in Physics and minor in Computer Science.
-I will graduate from Nanjing University this September.
+I will graduate from [Nanjing University](https://www.nju.edu.cn/) this September.
 
-Then, I will pursue My Ph.D @ HKUST-PHY.
+Then, I will pursue My Ph.D @ [HKUST-PHY](http://physics.ust.hk/eng/).
 
-## Interesting Projectscomputer
+## Contact Info
 
-- Nemu: X86 emulater
-- Linux-CommandLine-Tools
+- [Linkedin](https://www.linkedin.com/in/王乾-缪-60826b137/)
+- [Github](https://github.com/zybbigpy/)
+- 📧 (miaowangqian#icloud.com, replace # with @ )
+
+
+## Interesting Projects
+
+- 💻 Nemu: X86 emulater
+- 💻 Linux-CommandLine-Tools
   - pstree
   - cprel
   - sperf
 
 ## Industry Experience
 
-- **Horizon Robotics**: 👷 C++ Developer Intern [2019.12 - 2019.4]
+- 👷 [Horizon Robotics](https://www.horizon.ai/) ( *2019.12 - 2019.4* ): C++ Developer Intern
 
 ## Coding Skills
 
