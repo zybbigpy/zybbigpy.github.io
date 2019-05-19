@@ -1,4 +1,4 @@
-## Sketch
+## Miao Wangqian @ NJU
 
 <!-- TOC -->
 
@@ -16,7 +16,7 @@ I will graduate from Nanjing University this September.
 
 Then, I will pursue My Ph.D @ HKUST-PHY.
 
-## Interesting Projects
+## Interesting Projectscomputer
 
 - Nemu: X86 emulater
 - Linux-CommandLine-Tools
@@ -26,7 +26,7 @@ Then, I will pursue My Ph.D @ HKUST-PHY.
 
 ## Industry Experience
 
-- **Horizon Robotics**: C++ Developer Intern [2019.12 - 2019.4]
+- **Horizon Robotics**: 👷 C++ Developer Intern [2019.12 - 2019.4]
 
 ## Coding Skills
 
