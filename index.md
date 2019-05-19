@@ -4,7 +4,8 @@
 
 - [Brief Bio](#brief-bio)
 - [Contact Info](#contact-info)
-- [Interesting Projects](#interesting-projects)
+- [Research Focus](#research-focus)
+- [Programming Projects](#programming-projects)
 - [Industry Experience](#industry-experience)
 - [Coding Skills](#coding-skills)
 
@@ -23,11 +24,15 @@ Here is my TimeLine.
 
 ## Contact Info
 
-- 📧 (miaowangqian AT icloud.com)
+- 📧 (miaowangqian AT icloud DOT com)
 - [Linkedin](https://www.linkedin.com/in/王乾-缪-60826b137/)
 - [Github](https://github.com/zybbigpy/)
 
-## Interesting Projects
+## Research Focus
+
+<img src="./pic/0001.jpg" width="85%" height="74%" />
+
+## Programming Projects
 
 - 💻 Nemu: X86 emulater
 - 💻 Linux-CommandLine-Tools
