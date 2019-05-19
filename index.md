@@ -21,7 +21,8 @@
     <img src="./pic/1.jpg"width=300 height=200 />
 </div> -->
 
-![](pic/1.jpg)
+<h2><img src="/pic/1.jpg" alt="" /></h2>
+
 ---
 <!-- TOC -->
 
