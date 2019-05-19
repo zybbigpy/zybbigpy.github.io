@@ -21,8 +21,6 @@
     <img src="./pic/1.jpg"width=300 height=200 />
 </div> -->
 
-<h2><img src="/pic/1.jpg" width=300 height=200 alt="" /></h2>
-
 ---
 <!-- TOC -->
 
