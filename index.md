@@ -3,6 +3,7 @@
 <!-- TOC -->
 
 - [Brief Bio](#brief-bio)
+- [Contact Info](#contact-info)
 - [Interesting Projects](#interesting-projects)
 - [Industry Experience](#industry-experience)
 - [Coding Skills](#coding-skills)
@@ -16,15 +17,15 @@ I will graduate from [Nanjing University](https://www.nju.edu.cn/) this Septembe
 
 Then, I will pursue My Ph.D @ [HKUST-PHY](http://physics.ust.hk/eng/).
 
-![mypic](pic/line-1.png)
+Here is my TimeLine.
 
+![mypic](pic/line-1.png)
 
 ## Contact Info
 
+- 📧 (miaowangqian AT icloud.com)
 - [Linkedin](https://www.linkedin.com/in/王乾-缪-60826b137/)
 - [Github](https://github.com/zybbigpy/)
-- 📧 (miaowangqian#icloud.com, replace # with @ )
-
 
 ## Interesting Projects
 
@@ -36,7 +37,7 @@ Then, I will pursue My Ph.D @ [HKUST-PHY](http://physics.ust.hk/eng/).
 
 ## Industry Experience
 
-- 👷 [Horizon Robotics](https://www.horizon.ai/) ( *2019.12 - 2019.4* ): C++ Developer Intern
+- 👷 [Horizon Robotics](https://www.horizon.ai/) ( *2018.12 - 2019.4* ): C++ Developer Intern
 
 ## Coding Skills
 
