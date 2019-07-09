@@ -1,19 +1,12 @@
-<!-- TOC -->
-
-- [Brief Bio](#brief-bio)
-- [Contact Info](#contact-info)
-- [Research Focus](#research-focus)
-- [Industry Experience](#industry-experience)
-- [Coding Skills](#coding-skills)
-
-<!-- /TOC -->
-
 ## Brief Bio
 
 ---
 
-I graduated from Nanjing University with hornors degree major in Physics and minor
-in Computer Science. I will pursue my Ph.D at HKUST - PHY. You can get my <a href ="./1.pdf"> CV </a> here to get more information abour me. Here is my TimeLine.
+My name is MIAO Wangqian. Just call me *Mow* for convenience. I graduated from [Nanjing University](https://www.nju.edu.cn/) with hornors degree major in Physics and minor
+in Computer Science, 2019.
+
+I will pursue my Ph.D at [HKUST - PHY](https://physics.ust.hk/eng/) under surpervision
+of Professor DAI Xi. You can get my <a href ="./1.pdf"> CV </a> here to get more information about me. Here is my TimeLine.
 
 ![mypic](pic/line-1.png)
 
@@ -21,7 +14,7 @@ in Computer Science. I will pursue my Ph.D at HKUST - PHY. You can get my <a hre
 
 ---
 
-- 📧 (miaowangqian AT icloud DOT com, you can always get me by email.)
+- 📧 miaowangqian AT icloud DOT com. You can always get me by email.
 - 🔗 [Find Some Interesting Codes here.](https://github.com/zybbigpy/)
 
 ## Research Focus
