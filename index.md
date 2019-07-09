@@ -22,13 +22,16 @@ Here is my TimeLine.
 
 ![mypic](pic/line-1.png)
 
+You can get my CV here. 
+<embed src="./1.pdf" width="800px" height="2100px" />
+
 ## Contact Info
 
 ---
 
 - 📧 (miaowangqian AT icloud DOT com)
-- [Linkedin](https://www.linkedin.com/in/王乾-缪-60826b137/)
-- [Github](https://github.com/zybbigpy/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/王乾-缪-60826b137/)
+- 🔗 [Github](https://github.com/zybbigpy/)
 
 ## Research Focus
 
@@ -50,7 +53,7 @@ Here is my TimeLine.
 
 ---
 
-- 👷 [Horizon Robotics](https://www.horizon.ai/) ( *2018.12 - 2019.4* ): C++ Developer Intern
+- 👷 [Horizon Robotics](https://www.horizon.ai/) *2018.12 - 2019.4* : C++ Developer Intern
 
 ## Coding Skills
 
