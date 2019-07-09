@@ -2,11 +2,19 @@
 
 ---
 
-My name is MIAO Wangqian. Just call me *Mow* for convenience. I graduated from [Nanjing University](https://www.nju.edu.cn/) with hornors degree major in Physics and minor
+My name is MIAO Wangqian. Just call me **Mow** for convenience. I graduated from [Nanjing University](https://www.nju.edu.cn/) with honors degree major in Physics and minor
 in Computer Science, 2019.
 
 I will pursue my Ph.D at [HKUST - PHY](https://physics.ust.hk/eng/) under surpervision
-of Professor DAI Xi. You can get my <a href ="./1.pdf"> CV </a> here to get more information about me. Here is my TimeLine.
+of Professor DAI Xi.
+
+You can get more information about me through my <a href ="./pdfs/1.pdf"> CV </a>.
+
+## Time Line
+
+---
+
+Here is my Time Line.
 
 ![mypic](pic/line-1.png)
 
@@ -14,7 +22,9 @@ of Professor DAI Xi. You can get my <a href ="./1.pdf"> CV </a> here to get more
 
 ---
 
-- 📧 miaowangqian AT icloud DOT com. You can always get me by email.
+You can always get me online 😃.
+
+- 📧 miaowangqian AT icloud DOT com.
 - 🔗 [Find Some Interesting Codes here.](https://github.com/zybbigpy/)
 
 ## Research Focus
@@ -38,6 +48,6 @@ of Professor DAI Xi. You can get my <a href ="./1.pdf"> CV </a> here to get more
   - Python
 - Software Development Toolchain
   - Git
-  - Cmake
+  - CMake
 - Academic Writing
   - LaTeX
