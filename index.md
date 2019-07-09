@@ -22,8 +22,9 @@ Here is my TimeLine.
 
 ![mypic](pic/line-1.png)
 
-You can get my CV here. 
-<embed src="./1.pdf" width="800px" height="2100px" />
+You can get my CV here.
+
+<a href ="./1.pdf">Click here for the pdf file called flowers.</a>
 
 ## Contact Info
 
