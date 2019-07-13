@@ -1,40 +1,50 @@
 # MIAO Wangqian
 
+---
+
+<!-- TOC -->
+- [Brief Bio](#brief-bio)
+- [Education & Experience](#education--experience)
+- [Research Focus](#research-focus)
+- [Coding Skills](#coding-skills)
+- [Contact Info](#contact-info)
+<!-- /TOC -->
+
 ## Brief Bio
 
-My name is MIAO Wangqian. Just call me **Mow** for convenience.
+---
 
-I will pursue my Ph.D at [HKUST - PHY](https://physics.ust.hk/eng/) under surpervision
-of Professor DAI Xi.
-
-You can get more information about me through my [CV](./pdfs/1.pdf).
+My name is MIAO Wangqian. Just call me **Mow** for convenience. I will pursue my Ph.D at [HKUST - PHY](https://physics.ust.hk/eng/) under surpervision of Professor DAI Xi. You can get more information about me through my [CV](./pdfs/1.pdf).
 
 ## Education & Experience
 
+---
+
 - Academic
-  - 🎓 [Nanjing University, DII](https://www.nju.edu.cn/) : (2015.9 - 2019.7) Major in Physics, Minor in Computer Science.
-  - 🙇‍ [UC Davis, Statistics & Physics](https://www.ucdavis.edu/) : (2018.3 - 2018.6) Exchange student.
+  - 🎓 (2015.09 - 2019.07) [*Nanjing University, DII*](https://www.nju.edu.cn/) Physics and Computer Science.
+  - 🙇‍ (2018.03 - 2018.06) [*UC Davis, Statistics & Physics*](https://www.ucdavis.edu/) Exchange student.
 - Industry
-  - 👷 [Horizon Robotics](https://www.horizon.ai/) : (2018.12 - 2019.4) C++ Developer Intern.
-
-## Time Line
-
-Here is my Time Line.
-
-![mypic](pic/line-1.png)
-
-## Contact Info
-
-You can always get me online 😃.
-
-- 📧 miaowangqian AT icloud DOT com.
-- 🔗 [Find Some Interesting Codes here.](https://github.com/zybbigpy/)
+  - 👷 (2018.12 - 2019.04) [*Horizon Robotics*](https://www.horizon.ai/) C++ Developer Intern.
 
 ## Research Focus
 
-<img src="./pic/0001.jpg" width="85%" height="74%" />
+---
+
+I am mainly focus on *Condensed Matter Physics*, both Theory and Computation. More spesificly:
+
+- Theory
+  - Strongly Correlated System
+  - Topological Insutalors
+- Computation
+  - High Perfornmance Computation
+  - Software Development
+- Algorithm
+  - First Principle Caculation
+  - Machine Learning
 
 ## Coding Skills
+
+---
 
 - Programming Language
   - C++ / C
@@ -45,3 +55,12 @@ You can always get me online 😃.
 - Academic Writing
   - LaTeX
   - Beamer
+
+## Contact Info
+
+---
+
+You can always get me online 😃.
+
+- 📧 miaowangqian AT icloud DOT com.
+- 🔗 [Find Some Interesting Codes here.](https://github.com/zybbigpy/)
