@@ -1,26 +1,29 @@
+# MIAO Wangqian
+
 ## Brief Bio
 
----
-
-My name is MIAO Wangqian. Just call me **Mow** for convenience. I graduated from [Nanjing University](https://www.nju.edu.cn/) with honors degree major in Physics and minor
-in Computer Science, 2019.
+My name is MIAO Wangqian. Just call me **Mow** for convenience.
 
 I will pursue my Ph.D at [HKUST - PHY](https://physics.ust.hk/eng/) under surpervision
 of Professor DAI Xi.
 
-You can get more information about me through my <a href ="./pdfs/1.pdf"> CV </a>.
+You can get more information about me through my [CV](./pdfs/1.pdf).
+
+## Education & Experience
+
+- Academic
+  - 🎓 [Nanjing University, DII](https://www.nju.edu.cn/) : (2015.9 - 2019.7) Major in Physics, Minor in Computer Science.
+  - 🙇‍ [UC Davis, Statistics & Physics](https://www.ucdavis.edu/) : (2018.3 - 2018.6) Exchange student.
+- Industry
+  - 👷 [Horizon Robotics](https://www.horizon.ai/) : (2018.12 - 2019.4) C++ Developer Intern.
 
 ## Time Line
-
----
 
 Here is my Time Line.
 
 ![mypic](pic/line-1.png)
 
 ## Contact Info
-
----
 
 You can always get me online 😃.
 
@@ -29,19 +32,9 @@ You can always get me online 😃.
 
 ## Research Focus
 
----
-
 <img src="./pic/0001.jpg" width="85%" height="74%" />
 
-## Industry Experience
-
----
-
-- 👷 [Horizon Robotics](https://www.horizon.ai/): 2018.12 - 2019.4, C++ Developer Intern.
-
 ## Coding Skills
-
----
 
 - Programming Language
   - C++ / C
@@ -51,3 +44,4 @@ You can always get me online 😃.
   - CMake
 - Academic Writing
   - LaTeX
+  - Beamer
