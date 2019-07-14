@@ -35,7 +35,7 @@ I am mainly focus on **Condensed Matter Physics**, both Theory and Computation. 
   - Strongly Correlated System
   - Topological Insutalors
 - *Computation*
-  - High Perfornmance Computation
+  - High Performance Computation
   - Software Development
 - *Algorithm*
   - First Principle Caculation
