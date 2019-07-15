@@ -20,12 +20,12 @@ My name is MIAO Wangqian. Just call me **Mow** for convenience. I will pursue my
 ---
 
 My academic and industry experience is as following.
-  | ACADEMIC                |   TIME                          |       WHAT            | WHERE   |
-  | :-----------------------:| --- | --------------------------- | ---------------------------------------------------------- |
-  | 🎓 |2015.09 - 2019.07 | Physics & Computer Science. | [Nanjing University, DII](https://www.nju.edu.cn/)         |
-  | 🙇‍| 2018.03 - 2018.06 | Exchange Student.           | [UC Davis, Statistics & Physics](https://www.ucdavis.edu/) |
-  | **INDUSTRY**   |         |                             |                                                            |
-  | 👷 |2018.12 - 2019.04  | C++ Developer Intern.       | [Horizon Robotics](https://www.horizon.ai/)                |
+
+  | STATUS| WHEN | WHAT | WHERE |
+  | :---:| --- | --- | --- |
+  | 🎓 | 2015.09 - 2019.07 | Physics & Computer Science | [Nanjing University, DII](https://www.nju.edu.cn/) |
+  | 🙇‍ | 2018.03 - 2018.06 | Exchange Student | [UC Davis, Statistics & Physics](https://www.ucdavis.edu/) |
+  | 👷 | 2018.12 - 2019.04 | C++ Developer Intern | [Horizon Robotics](https://www.horizon.ai/) |
 
 ## Research Focus
 
