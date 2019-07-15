@@ -1,4 +1,4 @@
-# MIAO Wangqian
+# MIAO WANGQIAN
 
 ---
 
@@ -20,10 +20,14 @@ My name is MIAO Wangqian. Just call me **Mow** for convenience. I will pursue my
 ---
 
 - Academic
-  - 🎓 (2015.09 - 2019.07) Physics & Computer Science. [Nanjing University, DII](https://www.nju.edu.cn/)
-  - 🙇‍ (2018.03 - 2018.06) Exchange Student. [UC Davis, Statistics & Physics](https://www.ucdavis.edu/)
+  |   |   |   |   |
+  |---|---|---|---|
+  |🎓| [2015.09 - 2019.07] |Physics & Computer Science.| [Nanjing University](https://www.nju.edu.cn/)|
+  |🙇‍| [2018.03 - 2018.06] |Exchange Student. |[UC Davis](https://www.ucdavis.edu/)|
 - Industry
-  - 👷 (2018.12 - 2019.04) C++ Developer Intern. [Horizon Robotics](https://www.horizon.ai/)
+  |   |   |    |   |
+  |---|---|---|---|
+  |👷 |[2018.12 - 2019.04] |C++ Developer Intern.| [Horizon Robotics](https://www.horizon.ai/)|
 
 ## Research Focus
 
