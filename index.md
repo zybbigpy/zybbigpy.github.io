@@ -1,8 +1,6 @@
 
 ---
 
-> *What I cannot create,*
-> *I do not understand.*
 
 <!-- TOC -->
 - [Brief Bio](#brief-bio)
