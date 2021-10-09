@@ -17,7 +17,7 @@
 
 ---
 
-I am a first year Ph.D. student in the Materials Department at University of California, Santa Barbara. Now, I mainly work on the theory twist two dimensional materials.
+I am a first year Ph.D. student in the Materials Department at University of California, Santa Barbara. Now, I mainly work on the theory of twist two dimensional materials.
 
 ## Education & Experience
 
