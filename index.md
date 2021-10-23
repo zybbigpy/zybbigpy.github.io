@@ -1,6 +1,6 @@
 
 ---
-
+## Navigate Bar
 
 <!-- TOC -->
 - [Brief Bio](#brief-bio)
