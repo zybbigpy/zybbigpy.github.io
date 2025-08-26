@@ -30,7 +30,7 @@ I am now a postdoc scholar in Prof. [Binghai Yan](https://sites.google.com/view/
 | 👨‍🚀 | 2025.08 - Now | Postdoc Scholar | [*Penn State University*](https://hkust.edu.hk) |
 
 ## Publications
-See my [*Google Scholar*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2VhvrAIAAAAJ&citation_for_view=2VhvrAIAAAAJ%3Au-x6o8ySG0sC&inst=1381320739207392350) for all publications.
+See my [*Google Scholar*](https://scholar.google.com/citations?user=2VhvrAIAAAAJ&hl=en&inst=1381320739207392350) for all publications.
 
 
 
