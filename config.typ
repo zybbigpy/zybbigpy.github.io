@@ -6,10 +6,9 @@
   // 然后在 `content/` 路径中新建 `Entry/`路径，在其中添加 `index.typ` 作为 Entry 页的内容
   header-links: (
     "/": "Home",
-    "/Docs/": "Docs",
-    "/Blog/": "Blog",
+    "/Research/": "Research",
     "/CV/": "CV",
   ),
-  lang: "zh",
-  title: "Tufted Blog Template",  // 你的网站在浏览器中显示的标题
+  lang: "ch",
+  title: "Wangqian Miao's Personal Website",  // 你的网站在浏览器中显示的标题
 )

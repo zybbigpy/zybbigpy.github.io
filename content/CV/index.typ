@@ -2,63 +2,29 @@
 #show: template.with(title: "Edward R. Tufte")
 #import "@preview/citegeist:0.2.0": load-bibliography
 
-= Edward R. Tufte
 
 #tufted.margin-note[
-  Statistician, Artist, and Professor Emeritus \
-  Website: #link("https://www.edwardtufte.com")[edwardtufte.com] \
-  Email: #link("mailto:noreply@edwardtufte.com", "noreply@edwardtufte.com")
+  Postdoctoral Researcher\
+  Department of Physics\
+  Pennsylvania State University \
+  Website: #link("https://zybbigpy.github.io")[wangqianmiao.com] \
+  Email: #link("mailto:wqmiao@psu.edu", "wqmiao@psu.edu")
 ]
 
-#link("CV-PDF.pdf")[[PDF version is available! Click me!]]
-
-Research in statistical evidence and analytical design for information visualization, integrating principles from statistics, graphic design, and cognitive science for the effective presentation of quantitative data.
+//#link("CV-PDF.pdf")[[PDF version]]
 
 == Experience
 
-- *1983--Present*: Founder & Publisher, Graphics Press. Independent publishing house specializing in information design and data visualization.
-- *1977--1999*: Professor Emeritus, Yale University. Departments of Political Science, Statistics, and Computer Science.
-- *1967--1977*: Instructor, Princeton University. Woodrow Wilson School of Public and International Affairs.
-
-== Artworks
-
-#tufted.margin-note[
-  #image("escaping-flatland.webp")
-]
-
-#tufted.margin-note[
-  A homage to Edward R. Tufte's large stainless steel sculpture titled _Escaping Flatland_
-]
-
-Founder of Hogpen Hill Farms, a 234-acre sculpture park in Woodbury, Connecticut. Creator of large-scale works including _Larkin’s Twig_ and the _Escaping Flatland_ series, exhibited at the Aldrich Contemporary Art Museum.
-
-== Research Contributions
-
-Development of sparklines, a method for embedding high-resolution data graphics within text, and formulation of the data-ink ratio as a quantitative measure of graphical efficiency.
-
-== Books
-
-#{
-  let bib = load-bibliography(read("books.bib"))
-  for item in bib.values().rev() [
-    #let data = item.fields
-    - #strong(data.year): #emph(data.title)
-  ]
-}
+- *2025.09--Present*: Postdoctoral Researcher at the Department of Physics, Pennsylvania State University.
+- *2024.10--2025.09*: Postdoctoral Researcher at the Department of Physics, Hong Kong University of Science and Technology.
 
 == Papers
 
-#{
-  let bib = load-bibliography(read("papers.bib"))
-  for item in bib.values().rev() [
-    #let data = item.fields
-    - #data.author, "#data.title," #emph(data.journal), #data.year. DOI: #link(data.url)[#data.doi]
-  ]
-}
+Check out my #link("https://scholar.google.com/citations?user=2VhvrAIAAAAJ&hl=en&inst=15460120341296470254")[Google Scholar] page for more details.
 
 
 == Education
 
-- PhD in Political Science: Yale University (1968).
-- MS in Statistics: Stanford University.
-- BS in Statistics: Stanford University.
+- Ph.D. in Materials, University of California, Santa Barbara.
+- M.Phil. in Physics, Hong Kong University of Science and Technology.
+- B.Sc. in Phyics, Nanjing University.

@@ -47,7 +47,7 @@ Development of sparklines, a method for embedding high-resolution data graphics 
   let bib = load-bibliography(read("papers.bib"))
   for item in bib.values().rev() [
     #let data = item.fields
-    - #data.author, "#data.title," #emph(data.journal), #data.year. DOI: #link(data.url)[#data.doi]
+    - #data.author, "#data.title," #emph(data.journal), #data.year. DOI: #link(data.url)
   ]
 }
 
