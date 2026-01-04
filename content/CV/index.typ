@@ -25,6 +25,6 @@ Check out my #link("https://scholar.google.com/citations?user=2VhvrAIAAAAJ&hl=en
 
 == Education
 
-- Ph.D. in Materials, University of California, Santa Barbara.
-- M.Phil. in Physics, Hong Kong University of Science and Technology.
-- B.Sc. in Phyics, Nanjing University.
+- 2021-2024, Ph.D. in Materials, University of California, Santa Barbara.
+- 2019-2021, M.Phil. in Physics, Hong Kong University of Science and Technology.
+- 2015-2019, B.Sc. in Phyics, Nanjing University.
