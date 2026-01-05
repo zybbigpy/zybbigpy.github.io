@@ -7,7 +7,8 @@
   Postdoctoral Researcher\
   Department of Physics\
   Pennsylvania State University \
-  Website: #link("https://zybbigpy.github.io")[wangqianmiao.com] \
+  Website: #link("https://zybbigpy.github.io")[zybbigpy.github.io] \
+  GitHub: #link("https://github.com/zybbigpy")[zybbigpy] \
   Email: #link("mailto:wqmiao@psu.edu", "wqmiao@psu.edu")
 ]
 
@@ -25,6 +26,6 @@ Check out my #link("https://scholar.google.com/citations?user=2VhvrAIAAAAJ&hl=en
 
 == Education
 
-- 2021-2024, Ph.D. in Materials, University of California, Santa Barbara.
-- 2019-2021, M.Phil. in Physics, Hong Kong University of Science and Technology.
-- 2015-2019, B.Sc. in Phyics, Nanjing University.
+- *2021--2024*, Ph.D. in Materials, University of California, Santa Barbara. (Advisor: Prof. Xi Dai and Prof. Susanne Stemmer)
+- *2019--2021*, M.Phil. in Physics, Hong Kong University of Science and Technology. (Advisor: Prof. Xi Dai)
+- *2015--2019*, B.Sc. in Physics, Nanjing University.
