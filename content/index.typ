@@ -36,7 +36,7 @@
 
 == Wangqian Miao
 
-I am a Postdoctoral Researcher at the Department of Physics, Pennsylvania State University, where I mainly work with Prof. Binghai Yan. My research is mainly about theoretical Condensed Matter Physics. 
+I am a Postdoctoral Researcher at the Department of Physics, Pennsylvania State University, where I work with Prof. Binghai Yan. My research is about theoretical Condensed Matter Physics. 
 
 Now, I mainly work on the following topics:
 
