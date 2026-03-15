@@ -43,6 +43,6 @@ Now, I mainly work on the following topics:
 - Moiré materials 
 - Correlated phenomena in 2D
 - Quantum capacitors
-- Electronic crystal
+- Electron crystal
 
-Feel free to #link("mailto:wqmiao@psu.edu", "contact me") if you are interested in the above topics and discuss more.
+Feel free to #link("mailto:wqmiao@psu.edu", "contact me") if you are interested in the above topics and want to discuss more.

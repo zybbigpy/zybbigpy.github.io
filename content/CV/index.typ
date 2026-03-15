@@ -4,8 +4,9 @@
 
 
 #tufted.margin-note[
-  Postdoctoral Researcher\
+  Postdoctoral Fellow\
   Department of Physics\
+  Center for Theory of Emergent Quantum Matter (C-TEQ) \
   Pennsylvania State University \
   Website: #link("https://zybbigpy.github.io")[zybbigpy.github.io] \
   GitHub: #link("https://github.com/zybbigpy")[zybbigpy] \
