@@ -3,8 +3,19 @@ document.addEventListener('DOMContentLoaded', function() {
     const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
     
     headings.forEach(el => {
+        const text = el.textContent || '';
+
+        // 仅处理中英混排标题，避免纯英文标题被整体转成斜体。
+        if (!hasMixedCjkAndAscii(text)) {
+            return;
+        }
+
         processNode(el);
     });
+
+    function hasMixedCjkAndAscii(text) {
+        return /[\u3400-\u9FFF\uF900-\uFAFF]/.test(text) && /[\x00-\x7F]/.test(text);
+    }
 
     function processNode(node) {
         if (node.nodeType === 3) { // 3 代表文本节点
