@@ -1,4 +1,4 @@
-#import "../config.typ": template, tufted
+#import "../index.typ": template, tufted
 #show: template.with(title: "Research")
 
 #tufted.margin-note[
