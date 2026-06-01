@@ -1,19 +1,21 @@
 # CLAUDE.md — Project Instructions
 
-## Publication data — critical rule
+## Publication data
 
-`content/CV/papers.bib` is the **authoritative source of truth** for all publications. It was curated by the repository owner. When generating or updating `content/Research/index.typ` or any other page that lists publications:
+**arXiv is the primary source of truth** for publication metadata (authors, journal-ref, DOI). The owner does not want to maintain `content/CV/papers.bib` manually.
 
-- **Never add, remove, or modify a paper entry based on web search results, agent findings, or any external source that has not been verified by the owner.**
-- The bib file takes precedence over anything returned by arXiv searches, Semantic Scholar, Google Scholar, or any other tool.
-- If you believe a preprint has been published in a journal, **do not update the citation** unless the owner explicitly confirms the journal reference (title, volume, page, DOI).
-- Do not invent or guess DOIs, journal names, volume numbers, or author lists.
+### Workflow for generating/updating the Research page
 
-### Correct workflow for updating publications
+1. Fetch papers from arXiv for author "Wangqian Miao": `https://arxiv.org/search/?searchtype=author&query=Miao+Wangqian`
+2. For each paper, check the abstract page for a `Journal-ref` field. If present, use the journal citation and DOI; if absent, label it as a preprint.
+3. **Identity check — critical:** `content/CV/papers.bib` lists known papers by this owner. Before including any arXiv result, verify it overlaps with the bib file (same title or arXiv ID). Do not include papers by other authors who happen to share the name "Wangqian Miao" or "Miao W".
+4. New papers found on arXiv that are not yet in the bib file may be included if the title/topic is clearly consistent with this owner's research area (condensed matter theory: moiré, electron crystals, topology, 2D materials).
+5. Never fabricate or guess a journal reference — only use what the arXiv `Journal-ref` field explicitly states.
 
-1. Read `content/CV/papers.bib` — use it as the sole source for all paper metadata.
-2. Render each entry in `content/Research/index.typ` exactly as specified in the bib file.
-3. If a web search suggests a paper has been published, report the finding to the owner and wait for confirmation before changing anything.
+### Research summary style
+
+- 2–4 sentences, no collaborator names, no affiliation, no position titles.
+- Infer themes from the most recent ~2 years of papers only.
 
 ## Site structure
 
