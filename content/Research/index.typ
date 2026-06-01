@@ -18,8 +18,8 @@ My recent work focuses on moiré quantum materials, electron crystals, and topol
 - *#link("https://arxiv.org/abs/2512.23082")[Various electronic crystal phases in rhombohedral graphene multilayers]* \
   #text(size: 0.85em)[*Wangqian Miao*, Chu Li \ _arXiv_ 2512.23082 (2025)]
 
-- *#link("https://arxiv.org/abs/2512.23084")[Emergence of Topological Electronic Crystals in Bilayer Graphene–Mott Insulator Heterostructures]* \
-  #text(size: 0.85em)[*Wangqian Miao*, Tianyu Qiao, Xue-Yang Song, Xi Dai \ _arXiv_ 2512.23084 (2025)]
+- *#link("https://doi.org/10.1103/PhysRevLett.135.036501")[Emergence of Topological Electronic Crystals in Bilayer Graphene–Mott Insulator Heterostructures]* \
+  #text(size: 0.85em)[*Wangqian Miao*, Tianyu Qiao, Xue-Yang Song, Yinghai Xu, Yiwei Chen, Lei Wang, Xi Dai \ _Phys. Rev. Lett._ *135*, 036501 (2025)]
 
 - *#link("https://doi.org/10.1103/PhysRevB.111.195136")[Zeroth Landau level crossings in two-dimensional topological insulators]* \
   #text(size: 0.85em)[Boliang Liu, *Wangqian Miao*, Simon Munyan, Susanne Stemmer, Xi Dai \ _Phys. Rev. B_ *111*, 195136 (2025)]
