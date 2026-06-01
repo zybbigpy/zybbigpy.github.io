@@ -9,19 +9,7 @@
 
 = Research
 
-My research is in theoretical condensed matter physics. I study novel quantum phases of matter in low-dimensional systems, with an emphasis on the interplay of topology, electron correlation, and lattice geometry. My approach combines analytical theory with numerical computation.
-
-== Current Focus
-
-As a Postdoctoral Fellow at Penn State working with Prof. #link("https://sites.psu.edu/byan/")[Binghai Yan] and Prof. #link("https://sites.psu.edu/chaoxingliu/")[Chaoxing Liu], my recent work centers on:
-
-- *Electron crystals* — Charge ordering and crystallization in graphene multilayers and heterostructures, including topological crystal phases with quantized anomalous Hall effects in triangular, honeycomb, and kagome charge orders.
-
-- *Quantum capacitors* — Exploring coherence-based quantum energy storage rooted in band topology.
-
-- *Moiré materials* — Theoretical modeling and engineering of twisted and patterned 2D material systems, developing efficient numerical methods and building minimal models for novel moiré platforms.
-
-- *Correlated phenomena in 2D* — Emergent phases in strongly interacting electron systems, including Mott physics, heavy-electron behavior, and exotic superconductivity.
+My recent work focuses on moiré quantum materials, electron crystals, and topological phases in two-dimensional systems. I study emergent phenomena such as charge ordering, electron-phonon coupling, and topological Hall effects in graphene multilayers and twisted heterostructures, combining analytical theory with numerical methods.
 
 == Publications
 
