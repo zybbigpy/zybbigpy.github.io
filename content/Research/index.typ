@@ -9,14 +9,19 @@
 
 = Research
 
-My recent work focuses on moiré quantum materials, electron crystals, and topological phases in two-dimensional systems. I study emergent phenomena such as charge ordering, electron-phonon coupling, and topological Hall effects in graphene multilayers and twisted heterostructures, combining analytical theory with numerical methods.
+My recent work focuses on electronic crystal phases and topological order in moiré and rhombohedral graphene multilayers, and on how phonons mediate interactions between chiral edge modes in anomalous Hall crystals. I study emergent phenomena such as charge ordering, electron-phonon coupling, and topological Hall effects in graphene multilayers and twisted heterostructures, combining analytical theory with numerical methods.
 
 == Publications
 
-=== 2025
+=== 2026
 
-- *#link("https://arxiv.org/abs/2512.23082")[Various electronic crystal phases in rhombohedral graphene multilayers]* \
-  #text(size: 0.85em)[*Wangqian Miao*, Chu Li \ _arXiv_ 2512.23082 (2025)]
+- *#link("https://arxiv.org/abs/2607.10320")[Retarded interaction between opposite chiral edges in anomalous Hall crystals]* \
+  #text(size: 0.85em)[*Wangqian Miao*, Mu-Yang Chen, Binghai Yan, Chunli Huang \ _arXiv_ 2607.10320 (2026)]
+
+- *#link("https://doi.org/10.1103/PhysRevB.113.155136")[Various electronic crystal phases in rhombohedral graphene multilayers]* \
+  #text(size: 0.85em)[*Wangqian Miao*, Chu Li \ _Phys. Rev. B_ *113*, 155136 (2026)]
+
+=== 2025
 
 - *#link("https://arxiv.org/abs/2512.23084")[Emergence of Topological Electronic Crystals in Bilayer Graphene–Mott Insulator Heterostructures]* \
   #text(size: 0.85em)[*Wangqian Miao*, Tianyu Qiao, Xue-Yang Song, Xi Dai \ _arXiv_ 2512.23084 (2025)]
