@@ -18,7 +18,7 @@ My recent work focuses on electronic crystal phases and topological order in moi
 - *#link("https://arxiv.org/abs/2607.10320")[Retarded interaction between opposite chiral edges in anomalous Hall crystals]* \
   #text(size: 0.85em)[*Wangqian Miao*, Mu-Yang Chen, Binghai Yan, Chunli Huang \ _arXiv_ 2607.10320 (2026)]
 
-- *#link("https://doi.org/10.1103/PhysRevB.113.155136")[Various electronic crystal phases in rhombohedral graphene multilayers]* \
+- *#link("https://arxiv.org/abs/2512.23082")[Various electronic crystal phases in rhombohedral graphene multilayers]* \
   #text(size: 0.85em)[*Wangqian Miao*, Chu Li \ _Phys. Rev. B_ *113*, 155136 (2026)]
 
 === 2025
