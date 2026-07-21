@@ -1,5 +1,5 @@
 #import "../index.typ": template, tufted
-#show: template.with(title: "Edward R. Tufte")
+#show: template.with(title: "About")
 #import "@preview/citegeist:0.2.0": load-bibliography
 
 
@@ -19,11 +19,6 @@
 
 - *2025.09--Present*: Postdoctoral Researcher at the Department of Physics, Pennsylvania State University.
 - *2024.10--2025.09*: Postdoctoral Researcher at the Department of Physics, Hong Kong University of Science and Technology.
-
-== Papers
-
-Check out my #link("https://scholar.google.com/citations?user=2VhvrAIAAAAJ&hl=en&inst=15460120341296470254")[Google Scholar] page for more details.
-
 
 == Education
 

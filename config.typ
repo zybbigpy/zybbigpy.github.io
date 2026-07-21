@@ -7,7 +7,7 @@
   header-links: (
     "/": "Home",
     "/Research/": "Research",
-    "/CV/": "CV",
+    "/About/": "About",
   ),
   lang: "ch",
   title: "Wangqian Miao's Personal Website",  // 你的网站在浏览器中显示的标题
