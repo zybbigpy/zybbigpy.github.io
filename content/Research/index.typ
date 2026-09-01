@@ -21,8 +21,8 @@ My recent work focuses on electronic crystal phases and topological order in moi
 - *#link("https://arxiv.org/abs/2512.23082")[Various electronic crystal phases in rhombohedral graphene multilayers]* \
   #text(size: 0.85em)[*Wangqian Miao*, Chu Li \ _Phys. Rev. B_ *113*, 155136 (2026)]
 
-- *#link("https://doi.org/10.1016/j.newton.2026.100638")[Emergence of Topological Electronic Crystals in Bilayer Graphene–Mott Insulator Heterostructures]* \
-  #text(size: 0.85em)[*Wangqian Miao*, Tianyu Qiao, Xue-Yang Song, Xi Dai \ _Newton_ *2*, 100638 (2026)]
+- *#link("https://doi.org/10.1016/j.newton.2026.100638")[Emergence of topological electron crystals in bilayer graphene-Mott insulator heterostructures]* \
+  #text(size: 0.85em)[*Wangqian Miao*, Tianyu Qiao, Xue-Yang Song, Yinghai Xu, Yiwei Chen, Lei Wang, Xi Dai \ _Newton_ *2*, 100638 (2026)]
 
 === 2025
 
