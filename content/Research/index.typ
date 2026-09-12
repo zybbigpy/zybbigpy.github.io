@@ -15,6 +15,9 @@ My recent work focuses on electronic crystal phases and topological order in moi
 
 === 2026
 
+- *#link("https://arxiv.org/abs/2609.05646")[Gauge-covariant magnetic Bloch sums for general multiorbital Hofstadter models]* \
+  #text(size: 0.85em)[Hao Shi, Tianyu Qiao, *Wangqian Miao*, Jin-Tao Jin, Quansheng Wu, Xi Dai \ _arXiv_ 2609.05646 (2026)]
+
 - *#link("https://arxiv.org/abs/2607.10320")[Retarded interaction between opposite chiral edges in anomalous Hall crystals]* \
   #text(size: 0.85em)[*Wangqian Miao*, Mu-Yang Chen, Binghai Yan, Chunli Huang \ _arXiv_ 2607.10320 (2026)]
 
